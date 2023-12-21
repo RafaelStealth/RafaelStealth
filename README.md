@@ -12,3 +12,7 @@
 ##
 
   <a href="www.linkedin.com/in/rafael-vieira-lopes-2102b8167" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+##
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelStealth&bg_color=b4effe&color=9e4c98&line=7134a2&point=910bfe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
