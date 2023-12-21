@@ -15,4 +15,7 @@
 
 ##
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelStealth&bg_color=b4effe&color=9e4c98&line=7134a2&point=910bfe&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RafaelStealth&bg_color=0a0e12&color=ffffff&line=0088f0&point=386aff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelStealth&layout=compact&theme=react&hide_border=true&bg_color=0A0E12)](https://github.com/RafaelStealth/github-readme-stats)
+![]()
